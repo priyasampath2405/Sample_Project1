@@ -16,5 +16,6 @@ public class SampleProject {
 	public static void main(String args[]) {
 		System.out.println(printHello());
 		System.out.println(add(23,45));
+		
 	}
 }
